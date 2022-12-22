@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Levente Farkas</h1>
-<h3 align="center">Front-end Fighter from Budapest / Hungary.</h3>
+<h3 align="center">Front-end Fighter from Budapest / Hungary working @ <a href="https://mito.hu/" target="blank">mito</a></h3>
 
-<p align="left"> <a href="https://twitter.com/twevente_wolf" target="blank"><img src="https://img.shields.io/twitter/follow/twevente_wolf?logo=twitter&style=for-the-badge" alt="twevente_wolf" /></a> </p>
+<p align="left"> <a href="https://twitter.com/twevente_wolf" target="_blank"><img src="https://img.shields.io/twitter/follow/twevente_wolf?logo=twitter&style=for-the-badge" alt="twevente_wolf" /></a> </p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
