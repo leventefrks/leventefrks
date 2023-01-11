@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Levente Farkas</h1>
-<h3 align="center">Front-end Fighter from Budapest / Hungary, currently working @mito</h3>
+<h3 align="center">Front-end fighter from Budapest/Hungary, currently working at mito</h3>
 
 <p align="left"> <a href="https://twitter.com/twevente_wolf" target="_blank"><img src="https://img.shields.io/twitter/follow/twevente_wolf?logo=twitter&style=for-the-badge" alt="twevente_wolf" /></a> </p>
 
