@@ -1,5 +1,4 @@
 <h3 align="center">👋 Hey,I am Levente Farkas</h3>
-<br />
 <h3 align="center">Frontend fighter from Budapest/Hungary, currently working at mito</h3>
 <p align="left">
   <a href="https://twitter.com/twevente_wolf" target="_blank">
