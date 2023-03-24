@@ -1,11 +1,11 @@
 <h3 align="center">👋 Hey,I am Levente Farkas</h3>
+<br />
 <h3 align="center">Frontend fighter from Budapest/Hungary, currently working at mito</h3>
 <p align="left">
   <a href="https://twitter.com/twevente_wolf" target="_blank">
     <img src="https://img.shields.io/twitter/follow/twevente_wolf?logo=twitter&style=for-the-badge" alt="twevente_wolf" />
   </a>
 </p>
-<br/>
 <br/>
 <h3 align="left">Let's connect</h3>
 <p align="left">
@@ -25,6 +25,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="leventef" height="40" width="40" />
   </a>
 </p>
+<br/>
 <h3 align="left">Tech stack I'm familiar with</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -76,7 +77,6 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
 </p>
-<br/>
 <br/>
 <h3 align="left">Feel free to support me if you like my stuff</h3>
 <p>
