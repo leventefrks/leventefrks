@@ -9,14 +9,14 @@
   <a href="https://linkedin.com/in/levente-farkas-frontend-dev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levente-farkas-frontend-dev" height="30" width="30" />
   </a>
-  <a href="https://codepen.io/levente-frks" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg" alt="levente-frks" height="30" width="30" />
-  </a>
   <a href="https://codesandbox.com/leventefrks" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="leventefrks" height="30" width="30" />
   </a>
   <a href="https://dribbble.com/leventef" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="leventef" height="30" width="30" />
+  </a>
+  <a href="https://codepen.io/levente-frks" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg" alt="levente-frks" height="30" width="60" />
   </a>
 </p>
 <br/>
