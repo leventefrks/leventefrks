@@ -71,7 +71,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
 </a>
 </p>
-<p>
+<p align="center">
   <h5 align="center">Feel free to support me if you like my stuff</h5>
   <a align="center" href="https://www.buymeacoffee.com/leventefarkas">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="leventefarkas" />
