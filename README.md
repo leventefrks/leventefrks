@@ -1,9 +1,9 @@
-<h1 align="center">Hey 👋, I am Levente Farkas</h1>
+<h1 align="center">👋 Hey ,I am Levente Farkas</h1>
 <h3 align="center">Frontend fighter from Budapest/Hungary, currently working at mito</h3>
 
 <p align="left"> <a href="https://twitter.com/twevente_wolf" target="_blank"><img src="https://img.shields.io/twitter/follow/twevente_wolf?logo=twitter&style=for-the-badge" alt="twevente_wolf" /></a> </p>
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Let's connect</h3>
 <p align="left">
 <a href="https://codepen.io/levente-frks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="levente-frks" height="30" width="40" /></a>
 <a href="https://twitter.com/twevente_wolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twevente_wolf" height="30" width="40" /></a>
