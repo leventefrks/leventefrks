@@ -5,6 +5,8 @@
     <img src="https://img.shields.io/twitter/follow/twevente_wolf?logo=twitter&style=for-the-badge" alt="twevente_wolf" />
   </a>
 </p>
+<br/>
+<br/>
 <h3 align="left">Let's connect</h3>
 <p align="left">
   <a href="https://twitter.com/twevente_wolf" target="blank">
@@ -74,11 +76,11 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
 </p>
+<br/>
+<br/>
 <h3 align="left">Feel free to support me if you like my stuff</h3>
 <p>
   <a href="https://www.buymeacoffee.com/leventefarkas">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leventefarkas" />
   </a>
 </p>
-<br>
-<br>
