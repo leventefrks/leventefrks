@@ -72,8 +72,8 @@
 </a>
 </p>
 <p align="center">
-  <h5>Feel free to support me if you like my stuff</h5>
-  <a href="https://www.buymeacoffee.com/leventefarkas">
+  <h5 align="center">Feel free to support me if you like my stuff</h5>
+  <a align="center" href="https://www.buymeacoffee.com/leventefarkas">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="leventefarkas" />
   </a>
 </p>
