@@ -18,7 +18,6 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg" alt="levente-frks" height="30" width="60" />
   </a>
 </p>
-<br/>
 <h5 align="left">Tech stack I'm familiar with</h5>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -70,7 +69,6 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
 </p>
-<br/>
 <h5 align="left">Feel free to support me if you like my stuff</h5>
 <p>
   <a href="https://www.buymeacoffee.com/leventefarkas">
