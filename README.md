@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hey,I am Levente Farkas</h3>
 <h5 align="center">Frontend fighter from Budapest/Hungary, currently working at mito</h5>
-<h3 align="left">Let's connect</h3>
+<h5 align="left">Let's connect</h5>
 <p align="left">
   <a href="https://twitter.com/twevente_wolf" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twevente_wolf" height="30" width="30" />
@@ -19,7 +19,7 @@
   </a>
 </p>
 <br/>
-<h3 align="left">Tech stack I'm familiar with</h3>
+<h5 align="left">Tech stack I'm familiar with</h5>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
@@ -71,7 +71,7 @@
   </a>
 </p>
 <br/>
-<h3 align="left">Feel free to support me if you like my stuff</h3>
+<h5 align="left">Feel free to support me if you like my stuff</h5>
 <p>
   <a href="https://www.buymeacoffee.com/leventefarkas">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leventefarkas" />
