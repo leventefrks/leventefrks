@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hey,I am Levente Farkas</h3>
+<h3 align="center">👋 Hey, Iam Levente Farkas</h3>
 <h5 align="center">Frontend fighter from Budapest/Hungary, currently working at mito</h5>
 <h5 align="left">Let's connect</h5>
 <p align="left">
