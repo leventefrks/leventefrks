@@ -1,16 +1,16 @@
-<h3 align="center">👋 Hey, Iam Levente Farkas</h3>
+<h3 align="center">👋 Hey,I am Levente Farkas</h3>
 <h3 align="center">Frontend fighter from Budapest/Hungary, currently working at mito</h3>
 <br/>
 <h3 align="left">Let's connect</h3>
 <p align="left">
   <a href="https://twitter.com/twevente_wolf" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twevente_wolf" height="40" width="60" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twevente_wolf" height="40" width="40" />
   </a>
   <a href="https://linkedin.com/in/levente-farkas-frontend-dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levente-farkas-frontend-dev" height="30" width="60" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levente-farkas-frontend-dev" height="40" width="40" />
   </a>
   <a href="https://codepen.io/levente-frks" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg" alt="levente-frks" height="30" width="60" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg" alt="levente-frks" height="40" width="60" />
   </a>
   <a href="https://codesandbox.com/leventefrks" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="leventefrks" height="40" width="40" />
