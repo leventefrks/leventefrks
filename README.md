@@ -74,6 +74,6 @@
 <h5 align="left">Feel free to support me if you like my stuff</h5>
 <p>
   <a href="https://www.buymeacoffee.com/leventefarkas">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leventefarkas" />
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="100" alt="leventefarkas" />
   </a>
 </p>
