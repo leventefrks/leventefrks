@@ -2,19 +2,19 @@
 <h5 align="center">Frontend fighter, currently working at mito</h5>
 <h5 align="left">Let's connect</h5>
 <p align="left">
-  <a href="https://twitter.com/twevente_wolf" target="blank">
+  <a href="https://twitter.com/twevente_wolf" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twevente_wolf" height="30" width="30" />
   </a>
-  <a href="https://linkedin.com/in/levente-farkas-frontend-dev" target="blank">
+  <a href="https://linkedin.com/in/levente-farkas-frontend-dev" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levente-farkas-frontend-dev" height="30" width="30" />
   </a>
-  <a href="https://codesandbox.com/leventefrks" target="blank">
+  <a href="https://codesandbox.com/leventefrks" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="leventefrks" height="30" width="30" />
   </a>
-  <a href="https://dribbble.com/leventef" target="blank">
+  <a href="https://dribbble.com/leventef" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="leventef" height="30" width="30" />
   </a>
-  <a href="https://codepen.io/levente-frks" target="blank">
+  <a href="https://codepen.io/levente-frks" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg" alt="levente-frks" height="30" width="60" />
   </a>
 </p>
@@ -71,7 +71,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
 </p>
-<h5 align="center">Feel free to support me if you like my stuff</h5>
+<h6 align="center">Feel free to support me if you like my stuff</h6>
 <p align="center">
   <a href="https://www.buymeacoffee.com/leventefarkas">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="140" alt="leventefarkas" />
