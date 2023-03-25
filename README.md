@@ -31,6 +31,7 @@
   <a href="https://www.typescriptlang.org/play" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" />
   </a>
+  <br/>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs" width="60" height="40" />
   </a>
@@ -46,6 +47,7 @@
   <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="30" />
   </a>
+  <br/>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40" />
   </a>
