@@ -66,6 +66,9 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" alt="webpack" width="80" height="40" />
   </a>
+    <a href="https://www.github.com" target="_blank" rel="noreferrer">
+    <img src="  https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="figma" width="60" height="40" />
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
