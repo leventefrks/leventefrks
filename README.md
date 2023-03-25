@@ -69,6 +69,10 @@
     <a href="https://www.github.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="80" height="40" />
   </a>
+    </a>
+    <a href="https://www.gitlab.com" target="_blank" rel="noreferrer">
+    <img src="  https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" width="80" height="40" />
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
