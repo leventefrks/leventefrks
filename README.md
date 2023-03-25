@@ -6,7 +6,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twevente_wolf" height="30" width="30" />
   </a>
   <a href="https://linkedin.com/in/levente-farkas-frontend-dev" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levente-farkas-frontend-dev" height="30" width="30" />
   </a>
   <a href="https://codesandbox.com/leventefrks" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="leventefrks" height="30" width="30" />
@@ -46,13 +45,13 @@
   </a>
   <br />
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwind" width="100" height="50" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss" width="100" height="50" />
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs" width="60" height="40" />
   </a>
   <a href="https://gridsome.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40" />
   </a>
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="30" />
